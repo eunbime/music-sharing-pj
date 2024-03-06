@@ -2,11 +2,9 @@
 
 ## Overview
 
-> **내일배움캠프 (심화주차 아웃소싱 과제)**
-
 🕗 개발기간: 2023. 12. 4 ~ 2023. 12. 11  
 
-💻 배포 주소: https://mucation-project.vercel.app/  
+💻 배포 주소: https://mucation-project.vercel.app
 
 
 
